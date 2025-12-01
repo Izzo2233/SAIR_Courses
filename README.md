@@ -1,7 +1,3 @@
-Based on your detailed curriculum structure, here's the comprehensive README that reflects your actual learning path:
-
----
-
 🇸🇩 SAIR – Sudanese Artificial Intelligence Research
 
 ![SAIR Banner](SAIR.jpg)
