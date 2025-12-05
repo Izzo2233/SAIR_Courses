@@ -358,9 +358,6 @@ temp/
 !models/README.md
 !results/README.md
 
-# Keep notebook files but not their outputs/caches
-*.ipynb
-
 # Exclude personal notes
 personal_notes.txt
 todo.txt
