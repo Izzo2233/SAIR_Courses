@@ -202,18 +202,6 @@ results/*.feather
 *.rar
 *.7z
 
-# =================================
-# NOTEBOOK SPECIFIC
-# =================================
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Jupyter Notebook outputs (can be regenerated)
-*.ipynb
-
-# VS Code Notebook outputs
-*.vs.ipynb
 
 # =================================
 # OPERATING SYSTEM FILES
